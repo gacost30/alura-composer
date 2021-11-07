@@ -1,16 +1,16 @@
 {
-    "name": "cviniciussdias/buscador-cursos",
+    "name": "gacost30/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Cviniciussdias\\BuscadorCursos\\": "src/"
+            "gacost30\\BuscadorCursos\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Vinicius Dias",
-            "email": "carlosv775@gmail.com"
+            "name": "Gilson A Costa",
+            "email": "gilson.costa+github@gmail.com"
         }
     ],
     "require": {
